@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# local data — SQLite DB, runtime sandboxes, generated app checkpoints
+data/
+
+# build output — the UI bundle is produced by `vite build` into server/static
+server/static/
+
+# logs & scratch
+*.log
+*.db-wal
+*.db-shm
+.DS_Store

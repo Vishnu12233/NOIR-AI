@@ -1,0 +1,21 @@
+{
+  "name": "noir-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NOIR — AI software engineering platform (server)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "adm-zip": "^0.6.0",
+    "better-sqlite3": "^11.10.0",
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}
