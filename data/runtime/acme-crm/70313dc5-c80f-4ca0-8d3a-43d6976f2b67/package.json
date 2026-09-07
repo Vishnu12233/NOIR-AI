@@ -1,0 +1,20 @@
+{
+  "name": "acme-crm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Acme CRM — generated with NOIR",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test tests/"
+  },
+  "generatedBy": {
+    "tool": "NOIR",
+    "version": "1.0",
+    "mode": "crm"
+  }
+}

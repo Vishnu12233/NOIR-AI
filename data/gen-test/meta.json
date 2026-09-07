@@ -1,0 +1,31 @@
+{
+ "dir": "/home/user/noir/data/gen-test/aurora-crm",
+ "files": [
+  "package.json",
+  "server.js",
+  "db/schema.js",
+  "db/schema.sql",
+  "db/seed.js",
+  "meta.js",
+  "lib/utils.js",
+  "lib/store.js",
+  "lib/pg.js",
+  "src/app.js",
+  "src/index.html",
+  "src/lib/u.js",
+  "src/pages/crud.js",
+  "src/pages/detail.js",
+  "src/pages/feed.js",
+  "src/pages/home.js",
+  "src/pages/index.js",
+  "src/pages/kanban.js",
+  "src/pages/landing.js",
+  "src/pages/misc.js",
+  "src/pages/shop.js",
+  "src/pages/ui.js",
+  "src/styles.css",
+  "tests/api.test.mjs",
+  "README.md",
+  ".env.example"
+ ]
+}
